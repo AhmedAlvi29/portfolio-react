@@ -28,7 +28,7 @@
                   <!-- Content Block - H2 Section Title Start -->
                   <div class="content__block section-grid-title">
                     <div class="block__descr">
-                      <h2 class="reveal-type animate-in-up">Creating<br>impactful projects</h2>
+                      <h2 class="reveal-type animate-in-up">Code, Create <br>Leave Impact</h2>
                     </div>
                   </div>
                   <!-- Content Block - H2 Section Title End -->
@@ -42,7 +42,7 @@
                             <div class="cards__card d-flex flex-column">
                               <div class="cards__descr">
                                 <h3 class="cards__title animate-in-up">Frontend<br>development</h3>
-                                <p class="cards__text type-basic-160lh animate-in-up">I work with HTML/CSS, Framer and WordPress.</p>
+                                <p class="cards__text type-basic-160lh animate-in-up">I work with HTML, CSS(Bootstrap, Tailwind), JS(React, Node, React Native).</p>
                               </div>
                               <div class="cards__image cards__image-v2 d-flex animate-in-up">
                                 <img src="img/services/1200x1200_s05.webp" alt="Service/Feature Image">
@@ -53,8 +53,8 @@
                           <div class="col-12 col-md-6 cards__item grid-item animate-card-2">
                             <div class="cards__card d-flex flex-column">
                               <div class="cards__descr">
-                                <h3 class="cards__title animate-in-up">Graphic<br>design</h3>
-                                <p class="cards__text type-basic-160lh animate-in-up">I use Adobe Fresco and Blender to create illustrations and 3D renders.</p>
+                                <h3 class="cards__title animate-in-up">Backend<br>Development</h3>
+                                <p class="cards__text type-basic-160lh animate-in-up">I work with PHP, JS, SQL and Database Like Firebase, Supabase, MySQL.</p>
                               </div>
                               <div class="cards__image cards__image-v2 d-flex animate-in-up">
                                 <img src="img/services/1200x1200_s06.webp" alt="Service/Feature Image">
@@ -65,9 +65,8 @@
                           <div class="col-12 col-md-6 cards__item grid-item animate-card-2">
                             <div class="cards__card d-flex flex-column">
                               <div class="cards__descr">
-                                <h3 class="cards__title animate-in-up">Brand<br>identity</h3>
-                                <p class="cards__text type-basic-160lh animate-in-up">I help my clients to develop a personality and 
-                                  brand voice, design the brand look and logo.</p>
+                                <h3 class="cards__title animate-in-up">Search Visibility Mastery</h3>
+                                <p class="cards__text type-basic-160lh animate-in-up">I help businesses rise above the noise by boosting their search rankings, optimizing content, and crafting strategies that drive organic traffic — turning clicks into loyal customers.</p>
                               </div>
                               <div class="cards__image cards__image-v2 d-flex animate-in-up">
                                 <img src="img/services/1200x1200_s07.webp" alt="Service/Feature Image">
@@ -78,9 +77,8 @@
                           <div class="col-12 col-md-6 cards__item grid-item animate-card-2">
                             <div class="cards__card d-flex flex-column">
                               <div class="cards__descr">
-                                <h3 class="cards__title animate-in-up">Digital<br>marketing</h3>
-                                <p class="cards__text type-basic-160lh animate-in-up">Social media content plans, media monitoring, 
-                                  email and text messaging and search engine optimization.
+                                <h3 class="cards__title animate-in-up">CMS & WordPress Development</h3>
+                                <p class="cards__text type-basic-160lh animate-in-up">I build and customize powerful CMS solutions — from WordPress to other platforms — giving you full control over your content, seamless management tools, and a design that’s both functional and visually stunning.
                                 </p>
                               </div>
                               <div class="cards__image cards__image-v2 d-flex animate-in-up">

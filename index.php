@@ -29,11 +29,11 @@
     <!-- Bottom Background Images Start -->
     <div class="bottom__background bottom-bg-03">
       <div class="bottom-bg-03__01 animate-card-2">
-        <img src="img/backgrounds/800x800_bg07.webp" alt="Template background image">
+        <img src="img/backgrounds/800x800_bg07.webp" alt="background image">
       </div>
-      <div class="bottom-bg-03__02 animate-card-2">
-        <img src="img/backgrounds/800x800_bg07.webp" alt="Template background image">
-      </div>
+      <!-- <div class="bottom-bg-03__02 animate-card-2">
+        <img src="img/backgrounds/800x800_bg07.webp" alt="background image">
+      </div> -->
     </div>
     <!-- Bottom Background Images End -->
 

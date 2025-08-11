@@ -11,12 +11,6 @@
               </a>
             </li>
             <li class="menu__item">
-              <a class="menu__link btn" href="#portfolio">
-                <span class="menu__caption">Portfolio</span>
-                <i class="ph ph-squares-four"></i>
-              </a>
-            </li>
-            <li class="menu__item">
               <a class="menu__link btn" href="#about">
                 <span class="menu__caption">About Me</span>
                 <i class="ph ph-user"></i>

@@ -398,6 +398,22 @@ html.lenis, html.lenis body {
   width: 100%;
   height: 100%;
 }
+.logo-wrapper {
+  background-color: var(--neutral-bright); 
+  width: 50px;  /* Same size as SVG */
+  height: 50px;
+  display: flex;
+  border-radius: 20px;
+  align-items: center;
+  justify-content: center;
+  border-radius: 0; /* Keep it square, change to 50% for a circle */
+}
+
+.logo-img {
+  max-width: 70%; /* Keeps padding inside */
+  max-height: 70%;
+}
+
 
 #video-wrapper {
   position: absolute;
@@ -2333,6 +2349,17 @@ form textarea:required:valid {
   padding-top: 6rem;
   overflow: hidden;
 }
+
+.background-video {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  z-index: -1; /* keep it behind content */
+}
+
 @media only screen and (min-width: 768px) {
   .main {
     padding-top: 7rem;

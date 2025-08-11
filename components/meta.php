@@ -13,26 +13,25 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
 
-    <!-- Template Favicon & Icons Start -->
-    <link rel="icon" href="img/favicon/favicon.ico" sizes="any">
-    <link rel="icon" href="img/favicon/icon.svg" type="image/svg+xml">
+    <!--  Favicon & Icons Start -->
+    <link rel="icon" href="img/favicon/favicon.png" sizes="any">
+    <link rel="icon" href="img/favicon/icon.png" type="image/svg+xml">
     <link rel="apple-touch-icon" href="img/favicon/apple-touch-icon.png">
     <link rel="manifest" href="img/favicon/manifest.webmanifest">
-    <!-- Template Favicon & Icons End -->
+    <!--  Favicon & Icons End -->
 
     <!-- Facebook Metadata Start -->
     <meta property="og:image:height" content="1200">
     <meta property="og:image:width" content="1200">
     <meta property="og:title" content="Ahmed Portfolio">
     <meta property="og:description" content="">
-   
     <!-- Facebook Metadata End -->
 
-    <!-- Template Styles Start -->
+    <!--  Styles Start -->
     <link rel="stylesheet" type="text/css" href="css/loaders/loader.css">
     <link rel="stylesheet" type="text/css" href="css/plugins.css">
     <link rel="stylesheet" type="text/css" href="css/main.css">
-    <!-- Template Styles End -->
+    <!--  Styles End -->
 
     <!-- Custom Browser Color Start -->
     <meta name="theme-color" media="(prefers-color-scheme: light)" content="#BABEC8">
