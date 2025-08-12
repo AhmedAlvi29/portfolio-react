@@ -51,7 +51,7 @@
                       <!-- Reply Messages End -->
 
                       <!-- Contact Form Start -->
-                      <form action="../portfolio-react/php-logic/contact-query.php" method="POST" class="form contact-form" >
+                      <form action="../portfolio-react/logic/contact-query" method="POST" class="form contact-form" >
 
                         <div class="container-fluid p-0">
                           <div class="row gx-0">

@@ -6,12 +6,6 @@ $db_name = "portfolio";
 
 $db = new mysqli($db_host, $db_user, $db_pass, $db_name);
 
-if($db)
-{
-    echo "conected";
-}else{
-    echo "error";
-}
 
 
 ?>

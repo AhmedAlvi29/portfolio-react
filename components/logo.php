@@ -14,3 +14,8 @@
     <!-- Fixed Logo End -->
 
     
+ <!-- Fixed Color Switch Start -->
+    <div class="color loading__fade">
+      <button id="color-switcher" class="color-switcher" type="button" role="switch" aria-label="light/dark mode" aria-checked="true"></button>
+    </div>
+    <!-- Fixed Color Switch End -->
